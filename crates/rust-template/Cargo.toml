@@ -1,0 +1,18 @@
+[package]
+name = "rust-template"
+description = "an example rust template for pulseflow"
+publish = true
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+homepage.workspace = true
+repository.workspace = true
+readme = "./README.md"
+license.workspace = true
+categories = ["template"]
+
+[lints]
+workspace = true
+
+[dependencies]
+
